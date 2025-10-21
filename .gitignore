@@ -1,0 +1,39 @@
+# Личные заметки
+notes/private/
+**/private-*.md
+**/личное-*.md
+
+# Черновики
+**/draft-*.md
+**/черновик-*.md
+
+# Временные файлы
+*.tmp
+*.bak
+*~
+.DS_Store
+
+# Резервные копии
+*.backup
+backup/
+
+# Конфиденциальные материалы
+research/testimonies/confidential/
+**/конфиденциально-*.md
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Экспорты (если будут)
+exports/
+*.pdf
+*.docx
+*.epub
+
+# Системные файлы
+Thumbs.db
+.Spotlight-V100
+.Trashes
